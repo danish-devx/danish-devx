@@ -37,7 +37,7 @@
 <p>💬 Ask me about <strong>Frontend Development</strong></p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:your-email@example.com">your-email@example.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:mdanish5978@gmail.com">mdanish5978@gmail.com</a></strong></p>
 <br>
 </li>
 </ul>
