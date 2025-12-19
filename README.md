@@ -50,7 +50,7 @@
 
 <div style="text-align: center; margin-top: 10px;">
 
-  <a target="_blank" href="https://www.linkedin.com/">
+  <a target="_blank" href="https://www.linkedin.com/in/m-danish-87a10639a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
 
