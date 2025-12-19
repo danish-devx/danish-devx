@@ -11,11 +11,10 @@
 </p>
 
  
-<p align="left"> 
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="your-twitter">
-  </a> 
-</p>
+ <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+</a>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
